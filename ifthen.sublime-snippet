@@ -1,0 +1,11 @@
+<snippet>
+    <tabTrigger>ifthen</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>if then</description>
+    <content><![CDATA[
+if ${0:selection}
+	${1:code}
+else
+  ${2:code}
+]]></content>
+</snippet>

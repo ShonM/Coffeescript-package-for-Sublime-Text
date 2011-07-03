@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[for ${1:prop} of ${2:object}
+  ]]></content>
+    <tabTrigger>for</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>for of</description>
+</snippet>
